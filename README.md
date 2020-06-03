@@ -18,7 +18,9 @@ The accompanying notebook implements the following:
 - Loads the most recently trained model from disk (assuming multiple models have been trained)
 - Perform some semantic word tasks, such as find the most similar & dissimilar token to a given token
 - Visualizing the most similar & dissimilar tokens (vector representations) on a 2-D scatter plot using  PCA to reduce dimension and t-SNE for visualization
-- Simple user interactivity that allows user to enter a word into a ipywidget textbook and view 10 most similar and 10 most dissimilar token in the scatter plot  
+- Simple user interactivity that allows user to enter a word into a ipywidget textbook and view 10 most similar and 10 most dissimilar token in the scatter plot
+
+![Alt Text](https://github.com/shanerai/word2vec-cord19/blob/master/images/captured.gif "t-SNE plot for most similar & dissimilar words to user provided input")
 
 ## Performance
 There are variety of shallow semantic/syntactic/retrieval tasks that serve as a basis for evaluating word embedding. Some of these include: word similarity, document classification task, and document re-ranking and retrieval task .
