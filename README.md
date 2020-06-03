@@ -27,26 +27,28 @@ For this exercise, the focus is word similarity. Given the medical domain of the
 
 * Medical (disease)
 Word: mers
-
+![Alt Text](https://github.com/shanerai/word2vec-cord19/blob/master/images/disease%20example%20mers.jpg "mers")
 
 *mers* is a type of *cov* (coronavirus) with *dromedary* *camels* recognized as a major reservoir host for MERS-CoV
 
+
+
 * Medical (disease)
 Word: diabetes
-
+![Alt Text](https://github.com/shanerai/word2vec-cord19/blob/master/images/disease%20example%20diabetes.jpg "diabetes")
 
 *hypertension* often occurs alongside *diabetes* whereas *obesity* is known to play a role in causing this disease
 
 * Medical (protein)
 Word: spike
-
+![Alt Text](https://github.com/shanerai/word2vec-cord19/blob/master/images/protein%20example%20spike.jpg "spike")
 
 *spike* is a large type of transmembrane protein. Whereas, association of viral capsid proteins with viral nucleic acid is called a *nucleocapsid*
 
 
 * Medical (chemical)
 Word: chloroquine
-
+![Alt Text](https://github.com/shanerai/word2vec-cord19/blob/master/images/chemical%20example%20chloroquine.jpg "chloroquine")
 
 *amodiaquine* and *chloroquine* are both used as treatment therapies of malaria. Whereas chloroquine is regarded as a classic *lysosomotropic* compound.
 
@@ -54,7 +56,7 @@ Word: chloroquine
 
 * Non- medical (country)
 Word: colombia
-
+![Alt Text](https://github.com/shanerai/word2vec-cord19/blob/master/images/country%20example%20colombia.jpg "colombia")
  
 Other countries like *venezuela* and *mexico* are clustered around *colombia*
 
