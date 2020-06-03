@@ -77,6 +77,8 @@ The latest and daily updated corpus can be found [here](https://www.semanticscho
 * Alphanumeric tokens are excluded in the corpus. e.g. h1n1. This might be a result of preprocessing using gensim’s utility function for this purpose.
 
 ## References
-* Word2Vec: Introduction to word embedding and Word2Vec [link](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+* Word2Vec tutorial: Introduction to word embedding and Word2Vec [link](https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa)
+* Another Word2Vec tutorial: The Illustrated Word2vec [link](http://jalammar.github.io/illustrated-word2vec/)
 * Gensim Word2Vec: module documentation [link](https://radimrehurek.com/gensim/models/word2vec.html)
 * Parsing CORD-19 JSON files [source](https://www.kaggle.com/xhlulu/cord-19-eda-parse-json-and-generate-clean-csv)
+* Generating t-SNE plots to visualize most similar & dissimilar words [source](https://www.kaggle.com/pierremegret/gensim-word2vec-tutorial)
